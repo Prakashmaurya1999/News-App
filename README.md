@@ -1,1 +1,1 @@
-
+my project name is news app . i am using  language  to make HTML CSS and JS . as well as API . when make this project so many issue create so i faced issue and then fanaily make this projets . And i am leran this projects how to work  API and so many. 
